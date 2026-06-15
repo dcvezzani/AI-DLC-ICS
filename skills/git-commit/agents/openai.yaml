@@ -1,0 +1,4 @@
+interface:
+  display_name: "Git Commit"
+  short_description: "Formats commits through the repo script"
+  default_prompt: "Use $git-commit to create a commit by passing a full multi-line message to ./git-commit.sh."

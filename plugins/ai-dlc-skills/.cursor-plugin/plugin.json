@@ -1,0 +1,8 @@
+{
+  "name": "ai-dlc-skills",
+  "description": "Skills for AIDLC phases, architecture, testing, git workflow, work tracking, specs, backend/frontend, gdoc-to-markdown, and blog writing.",
+  "version": "1.0.12",
+  "author": { "name": "Dave Vezzani", "email": "dcvezzani@gmail.com" },
+  "repository": "https://github.com/dcvezzani/AI-DLC",
+  "skills": "skills"
+}
