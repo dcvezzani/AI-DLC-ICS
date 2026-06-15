@@ -19,12 +19,12 @@ YELLOW='\033[1;33m'
 BLUE='\033[0;34m'
 NC='\033[0m'
 
-REPO_URL="https://github.com/dcvezzani/AI-DLC.git"
-INSTALL_DIR="$HOME/.ai-dlc"
+REPO_URL="https://github.com/dcvezzani/AI-DLC-ICS.git"
+INSTALL_DIR="$HOME/.ai-dlc-ics"
 CURSOR_SKILLS_DIR="$HOME/.cursor/skills"
 CLAUDE_SKILLS_DIR="$HOME/.claude/skills"
 
-# Set by parse_args: 1 = remove existing skill dir/symlink and link from ~/.ai-dlc/skills
+# Set by parse_args: 1 = remove existing skill dir/symlink and link from ~/.ai-dlc-ics/skills
 FORCE=0
 
 parse_args() {
